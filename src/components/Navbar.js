@@ -23,7 +23,7 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-end">
-        <a
+        {/* <a
           className="navbar-item"
           href="#"
           target="_blank"
@@ -32,7 +32,7 @@ const Navbar = () => (
           <span className="icon">
             <img src={github} alt="Github" />
           </span>
-        </a>
+        </a> */}
       </div>
     </div>
   </nav>
