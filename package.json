@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "sit-play-love-sarah-baucom",
+  "description": "Dog Trainer, Walker and Matchmaker Extraordinaire",
   "version": "1.1.1",
-  "author": "Austin Green",
+  "author": "Chris Baucom",
   "dependencies": {
     "bulma": "^0.6.0",
     "gatsby": "^1.9.213",
